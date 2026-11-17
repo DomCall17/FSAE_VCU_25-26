@@ -1,7 +1,6 @@
 build
 mx.scratch
 !.settings
-!.txt
 *.txt
 *.json
 *.ld
